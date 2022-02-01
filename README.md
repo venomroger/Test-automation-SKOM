@@ -15,5 +15,3 @@ Autor: Roger Macedo Drumond
 # Scripts Automação test
 Aqui inicio minha jornada na elaboraçao de scripts de automaçao de Teste, usando Selenium WebDriver
 
-No Script 1
-Valido a automaçao acessando um ambiente da aplicaçao SankhyaOM de Teste, com usuario SUP, sem senha, acessando o Administrador do Servidor, para fazer Download do Log.
