@@ -58,7 +58,13 @@ public class SkomTest {
 
         Thread.sleep(10000);
 
-        navegador.findElement(By.cssSelector("input[title='Preencha este campo.']")).sendKeys("TESTE ROGER AUTOM");
+        navegador.findElement(By.cssSelector("input[title='Preencha este campo.']")).sendKeys("ROGER-AUTOMACAO SELENIUM");
+
+        //navegador.findElement(By.xpath("//span[normalize-space()='Impostos']")).click();
+
+        //navegador.findElement(By.cssSelector("Digite o código e tecle Enter")).sendKeys("03078300");
+
+        navegador.findElement(By.xpath("//button[@ng-if='isShowSaveButton()']//span[@class='glyphicons glyphicons-ok-2']")).click();
 
         assertEquals(1,1);
 
