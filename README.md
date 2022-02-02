@@ -24,6 +24,7 @@ Autor: Roger Macedo Drumond
    - [1️⃣ Script1](#-script1-) - Download do Log
    - [2️⃣ Script2](#-script2-) - Cadastro de Produto
    - [3️⃣ Script3](#-script3-) - Teste 3
+   - [💻 OS](#-os-)
 
 
 
@@ -60,6 +61,6 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
         navegador.findElement(By.xpath("//div[@class='Taskbar-icon icon-menu']")).click();
 
 
-## 3️⃣ script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 💻 OS [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 3 - Não iniciado...
