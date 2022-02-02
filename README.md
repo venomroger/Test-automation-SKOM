@@ -21,8 +21,8 @@ Autor: Roger Macedo Drumond
 
 
 ## Menu
-   - [1️⃣ Script1](#-script1-) - Download do Log
-   - [2️⃣ Script2](#-script2-) - Cadastro de Produto
+   - [💻 Script1](#-script1-) - Download do Log
+   - [💻 Script2](#-script2-) - Cadastro de Produto
    - [💻 Script3](#-script3-)
 
 
@@ -31,7 +31,7 @@ Autor: Roger Macedo Drumond
 
 
 
-## 1️⃣ script1 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 💻 Script1 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer download do log  
 
@@ -40,7 +40,7 @@ Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer downloa
 
    Desafios Mapeados:
 
-## 2️⃣ script2 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 💻 Script2 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Produto e efetuar o cadastro de um produto
 
