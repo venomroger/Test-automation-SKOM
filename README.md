@@ -11,6 +11,9 @@
 <a href="https://open.spotify.com/user/225ftlajwacbj5xxgj26cmktq?si=7fb5b1281fd44229">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
+<a href="https://psnprofiles.com/venomroger">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+  </a>
 
 
 # Welcome! Scripts de Automação de Teste README.md Roger Drumond
