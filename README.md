@@ -18,7 +18,7 @@
 Aqui inicio minha jornada na elaboraçao de scripts de automaçao de Teste, usando Selenium WebDriver
 
 📱 Autor: ​Roger Drumond | Analista de Projetos I<br>
-Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | CTFL | HDI-SCA | SFC-Scrum<br>
+Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | CTFL | HDI-SCA | <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=888750">SFC-Scrum</a><br>
 
 
 ## Menu
