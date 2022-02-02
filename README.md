@@ -20,8 +20,8 @@ Autor: Roger Macedo Drumond
 
 
 ## Menu
-   - [1️⃣ Script1](#-script1-)
-   - [2️⃣ Script2](#-script2-)
+   - [1️⃣ Script1](#-script1-) - Download do Log
+   - [2️⃣ Script2](#-script2-) - Cadastro de Produto
    - 
 
 
@@ -32,6 +32,19 @@ Autor: Roger Macedo Drumond
 
 ## 1️⃣ Script1 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
-Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer download do log  <a href= "https://github.com/venomroger/Test-automation-SKOM/commit/a0977fa2105cf257991665e9fd2a04eb64184f18">Create download_do_log</a>
+Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer download do log  
+
+   script: <a href= "https://github.com/venomroger/Test-automation-SKOM/commit/a0977fa2105cf257991665e9fd2a04eb64184f18">Create download_do_log</a>
+
+
+   Desafios Mapeados:
 
 ## 2️⃣ Script2 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+
+Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Produto e efetuar o cadastro de um produto
+
+   script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/2d156859985e0ecfc112fdb4c9c529fa5a6e8e2c">Cadastro_Produto</a>
+   
+   
+   Desafios Mapeados na Jornada:
+   
