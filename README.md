@@ -16,13 +16,14 @@
 # Welcome! Scripts de Automação de Teste README.md Roger Drumond
 
 Aqui inicio minha jornada na elaboraçao de scripts de automaçao de Teste, usando Selenium WebDriver
+
 Autor: Roger Macedo Drumond
 
 
 ## Menu
    - [1️⃣ Script1](#-script1-) - Download do Log
    - [2️⃣ Script2](#-script2-) - Cadastro de Produto
-   - 
+   - [3️⃣ Script3](#-script3-) - Teste 3
 
 
 
@@ -58,3 +59,7 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 //Acessar o Menu
         navegador.findElement(By.xpath("//div[@class='Taskbar-icon icon-menu']")).click();
 
+
+## 3️⃣ Script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+
+Script de Teste 3 - Não iniciado...
