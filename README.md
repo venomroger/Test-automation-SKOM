@@ -10,7 +10,8 @@
 Aqui inicio minha jornada na elaboraçao de scripts de automaçao de Teste, usando Selenium WebDriver
 
 📱 Autor: ​Roger Drumond | Analista de Projetos I<br>
-Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.br/verificador-certificado?field_certificado_numero_value=13-CTFL-02452-BR">CTFL</a> | HDI-SCA | <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=888750">SFC-Scrum</a> | <a href="http://165.227.93.41/cgitar/certificado.php?hash=09101ac13f5106d2f5b2c7960be24192">API Rest-Test</a><br><a href="https://www.instagram.com/venomroger/">
+Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.br/verificador-certificado?field_certificado_numero_value=13-CTFL-02452-BR">CTFL</a> | HDI-SCA | <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=888750">SFC-Scrum</a> | <a href="http://165.227.93.41/cgitar/certificado.php?hash=09101ac13f5106d2f5b2c7960be24192">API Rest-Test</a><br><a href="https://www.instagram.com/venomroger/"><br>
+  <br>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/drumondroger/">
