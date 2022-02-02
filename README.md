@@ -50,5 +50,11 @@ Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate
    
    -Menu do Sistema SKOM: Nao possui 'name', 'Id' ou 'Tag'
    
-   ![image](https://user-images.githubusercontent.com/98754939/152168310-6795a56c-aec7-440a-8dda-f3b2eb6885e3.png)
+   ![image](https://user-images.githubusercontent.com/98754939/152168310-6795a56c-aec7-440a-8dda-f3b2eb6885e3.png)![image](https://user-images.githubusercontent.com/98754939/152169151-b96ddf2e-0b3a-416c-a037-839b03723791.png)
+
+Os atributos disponiveis estao dispostos acima.
+Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable to locate element, entao foi necessario utilizar o atributo do Cssselector
+
+//Acessar o Menu
+        navegador.findElement(By.xpath("//div[@class='Taskbar-icon icon-menu']")).click();
 
