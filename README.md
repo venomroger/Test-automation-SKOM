@@ -48,3 +48,6 @@ Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate
    
    Desafios Mapeados na Jornada:
    
+   -Menu do Sistema SKOM: Nao possui 'name', 'Id' ou 'Tag'
+   ![image](https://user-images.githubusercontent.com/98754939/152168310-6795a56c-aec7-440a-8dda-f3b2eb6885e3.png)
+
