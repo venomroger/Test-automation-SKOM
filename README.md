@@ -31,7 +31,7 @@ Autor: Roger Macedo Drumond
 
 
 
-## 1️⃣ Script1 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 1️⃣ script1 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer download do log  
 
@@ -40,7 +40,7 @@ Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer downloa
 
    Desafios Mapeados:
 
-## 2️⃣ Script2 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 2️⃣ script2 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Produto e efetuar o cadastro de um produto
 
@@ -60,6 +60,6 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
         navegador.findElement(By.xpath("//div[@class='Taskbar-icon icon-menu']")).click();
 
 
-## 3️⃣ Script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 3️⃣ script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 3 - Não iniciado...
