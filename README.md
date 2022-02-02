@@ -68,6 +68,6 @@ Script de Teste 3 - Não iniciado...
 
 ## 💻 Fontes [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
-<a href="https://chromedriver.chromium.org/downloads">ChromeDriver- WebDriver for Chrome</a>
-<a href="https://selectorshub.com/">Extensao HUB Selector for Chrome</a>
-<a href="https://www.lambdatest.com/blog/types-of-waits-in-selenium/">Blog Lambda Test</a>
+  -<a href="https://chromedriver.chromium.org/downloads">ChromeDriver- WebDriver for Chrome</a>
+  -<a href="https://selectorshub.com/">Extensao HUB Selector for Chrome</a>
+  -<a href="https://www.lambdatest.com/blog/types-of-waits-in-selenium/">Blog Lambda Test</a>
