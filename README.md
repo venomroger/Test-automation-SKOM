@@ -74,7 +74,7 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 
         navegador.findElement(By.xpath("//div[contains(text(),'Cadastros')]")).click();
         
-   D3-O uso do metodo Thread.sleep, foi usado no script de teste, porque os SKOM tem loadin para acessar as telas do sistema e os metodos implicito e explicito nao geraram resultados esperados no primeiro momento (POSTERIORMENTE IREI TESTA-LO NOVAMENTE)     
+   D3-O uso do metodo Thread.sleep, foi usado no script de teste, porque os SKOM tem loading para acessar as telas do sistema e os metodos implicito e explicito nao geraram resultados esperados no primeiro momento (POSTERIORMENTE IREI TESTA-LO NOVAMENTE)     
    
     ::Trecho em que eu espero 20000 milisegundos, apos logar no sistema
     navegador.findElement(By.xpath("//*[contains(text(), 'Entrar')]")).click();
