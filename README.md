@@ -92,6 +92,8 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 ## 💻 Script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
   Script de Teste 3 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Tipo de Operação e efetuar o cadastro de um Tipo de Operação
+  
+  <a href="https://github.com/venomroger/Test-automation-SKOM/commit/294e6f1f6e3c672ff42d31ef599be922fef8b536">cadastro_tipmov</a>
 
 
   Desafios Mapeados na Jornada:
