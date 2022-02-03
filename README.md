@@ -66,11 +66,12 @@ Os atributos disponiveis estao dispostos acima.
 Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable to locate element, entao foi necessario utilizar o atributo do Cssselector
 
 //Acessar o Menu
+        
         navegador.findElement(By.xpath("//div[@class='Taskbar-icon icon-menu']")).click();
 
    #D2:-Navegação na Arvore de Menu: popupContent, as opções da arvore do Menu esta dentro de um Pop-up, entao é preciso encontrar primeiro a classe deste pop-up, para depois encontrar os valores dentro dele.
    
-         navegador.findElement(By.cssSelector(".popupContent"));
+        navegador.findElement(By.cssSelector(".popupContent"));
 
         navegador.findElement(By.xpath("//div[contains(text(),'Cadastros')]")).click();
         
