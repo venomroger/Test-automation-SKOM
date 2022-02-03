@@ -31,7 +31,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
 ## Menu
    - [💻 Script1](#-script1-) - Download do Log
    - [💻 Script2](#-script2-) - Cadastro de Produto
-   - [💻 Script3](#-script3-)
+   - [💻 Script3](#-script3-) - Cadastro de Tipo de Operação
    - [💻 Fontes](#-fontes-)
 
 
@@ -91,7 +91,17 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
    
 ## 💻 Script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
-Script de Teste 3 - Não iniciado...
+  Script de Teste 3 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Tipo de Operação e efetuar o cadastro de um Tipo de Operação
+
+
+  Desafios Mapeados na Jornada:
+  #D1:-Arvore do Menu Lateral: Do tipo dropdown, metodos utilizados com insucesso
+  
+      navegador.findElement(By.name("Todas")).click();
+      navegador.findElement(By.className("tree-icon glyphicon collapse glyphicon-chevron-right")).click();
+      navegador.findElement(By.xpath("//i[@class='tree-icon glyphicon collapse glyphicon-chevron-right']")).click();
+
+
 
 
 ## 💻 Fontes [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
