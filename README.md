@@ -102,6 +102,8 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
       navegador.findElement(By.xpath("//i[@class='tree-icon glyphicon collapse glyphicon-chevron-right']")).click();
       
   Solução: Tornar o Menu 'TODAS' do Inicio da arvore de Tipo de Movimento 'clicavel' e mapea-los.
+  
+![botao_Todas_da_arvore_tipomov](https://user-images.githubusercontent.com/98754939/152402572-e04ef8d6-6078-4c5e-85d4-9267fa05b645.gif)
 
 
 
