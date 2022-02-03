@@ -58,7 +58,7 @@ Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate
    
    Desafios Mapeados na Jornada:
    
-   -Menu do Sistema SKOM: Nao possui 'name', 'Id' ou 'Tag'
+   D1:-Menu do Sistema SKOM: Nao possui 'name', 'Id' ou 'Tag'
    
    ![image](https://user-images.githubusercontent.com/98754939/152168310-6795a56c-aec7-440a-8dda-f3b2eb6885e3.png)![image](https://user-images.githubusercontent.com/98754939/152169151-b96ddf2e-0b3a-416c-a037-839b03723791.png)
 
@@ -68,7 +68,22 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 //Acessar o Menu
         navegador.findElement(By.xpath("//div[@class='Taskbar-icon icon-menu']")).click();
 
+   D2:-Navegação na Arvore de Menu: popupContent, as opções da arvore do Menu esta dentro de um Pop-up, entao é preciso encontrar primeiro a classe deste pop-up, para depois encontrar os valores dentro dele.
+   
+         navegador.findElement(By.cssSelector(".popupContent"));
 
+        navegador.findElement(By.xpath("//div[contains(text(),'Cadastros')]")).click();
+        
+   D3-O uso do metodo Thread.sleep, foi usado no script de teste, porque os SKOM tem loadin para acessar as telas do sistema e os metodos implicito e explicito nao geraram resultados esperados no primeiro momento (POSTERIORMENTE IREI TESTA-LO NOVAMENTE)     
+   
+    ::Trecho em que eu espero 20000 milisegundos, apos logar no sistema
+    navegador.findElement(By.xpath("//*[contains(text(), 'Entrar')]")).click();
+
+        Thread.sleep(20000);
+   
+   
+   
+   
 ## 💻 Script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
 Script de Teste 3 - Não iniciado...
