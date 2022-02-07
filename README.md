@@ -33,6 +33,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
    - [💻 Script2](#-script2-) - Cadastro de Produto
    - [💻 Script3](#-script3-) - Cadastro de Tipo de Operação
    - [💻 Fontes](#-fontes-)
+   - [💻 Tools](#-tools-)
 
 
 
@@ -117,5 +118,5 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
    -<a href="https://selectorshub.com/">Extensao HUB Selector for Chrome</a><br>
    -<a href="https://www.lambdatest.com/blog/types-of-waits-in-selenium/">Blog Lambda Test</a><br>
     
-
+## 💻 Tools [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
  
