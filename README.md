@@ -32,6 +32,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
    - [💻 Script1](#-script1-) - Download do Log
    - [💻 Script2](#-script2-) - Cadastro de Produto
    - [💻 Script3](#-script3-) - Cadastro de Tipo de Operação
+   - [💻 Script4](#-script4-) - Taskit - Criaçao de User + Login
    - [💻 Fontes](#-fontes-)
    - [💻 Tools](#-tools-)
 
@@ -109,6 +110,11 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
   
 ![botao_Todas_da_arvore_tipomov](https://user-images.githubusercontent.com/98754939/152402572-e04ef8d6-6078-4c5e-85d4-9267fa05b645.gif)
 
+
+## 💻 Script4 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+  
+  Script de Teste 4 - Abrir navegador Chrome, acessar o site /taskit, criar novo usuario e logar
+  Script: 
 
 
 
