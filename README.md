@@ -119,4 +119,8 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
    -<a href="https://www.lambdatest.com/blog/types-of-waits-in-selenium/">Blog Lambda Test</a><br>
     
 ## 💻 Tools [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+
+  -<a href="https://www.jetbrains.com/pt-br/idea/download/">IntellijIDEA</a><br>
+  -<a href="https://jmeter.apache.org/download_jmeter.cgi">Apache JMeter</a><br>
+  
  
