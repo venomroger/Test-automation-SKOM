@@ -50,6 +50,7 @@ Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer downloa
 
 
    Desafios Mapeados:
+   -Nenhum
 
 ## 💻 Script2 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
@@ -114,9 +115,12 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 ## 💻 Script4 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
   
   Script de Teste 4 - Abrir navegador Chrome, acessar o site /taskit, criar novo usuario e logar
-  Script: 
+  Script:  <a href="https://github.com/venomroger/Test-automation-SKOM/commit/0edc52d7ecce022f8502f58f622587524e04e55a">taskit_create_user</a>
 
-
+Desafios Mapeados na Jornada:
+    -Nenhum
+    
+    
 
 ## 💻 Fontes [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
