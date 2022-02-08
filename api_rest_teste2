@@ -1,0 +1,45 @@
+package com.montanha.gerenciador.viagens;
+
+import org.junit.Test;
+import io.restassured.http.ContentType;
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+import static io.restassured.RestAssured.baseURI;
+
+public class ViagensTeste2 {
+    @Test
+    public void testdaoumUserConsultarumaViagemEntaoobtenhoStatusCode200(){
+        //Configurar o caminho comum de acesso a minha API Rest
+        baseURI = "http://localhost";
+        port = 8089;
+        basePath = "/api";
+
+        //Login na API Rest com Usuario Comun
+        String token = given()
+                .body("{\n" +
+                        "  \"email\": \"usuario@email.com\",\n" +
+                        "  \"senha\": \"123456\"\n" +
+                        "}")
+                .contentType(ContentType.JSON)
+                .when()
+                    .post("/v1/auth")
+                .then()
+                    .log().all()
+                .extract()
+                .path("data.token");
+        System.out.println(token);
+
+                    //Consultar a viagem
+
+                        given()
+                            .header("Authorization", token)
+                        .contentType(ContentType.JSON)
+                .when()
+                    .get("v1/viagens")
+                .then()
+                .log().all()
+                    .assertThat()
+                    .statusCode(200);
+    }
+}
