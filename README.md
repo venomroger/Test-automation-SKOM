@@ -127,7 +127,7 @@ Desafios Mapeados na Jornada:
   Script de Teste 5 - Login no link AcessNormal do Zendesk, navegar pelo menu lateral ate extensões, depois Logout
   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/aefa8098e3ad6e215ef8d2947837b83906f89b0c">Create LoginZendesk_Logout</a>
   
-  Desafios Mapeados na Jornada:
+Desafios Mapeados na Jornada:
     -Nenhum
 
 ## 💻 Fontes [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
