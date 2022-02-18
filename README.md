@@ -33,6 +33,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
    - [💻 Script2](#-script2-) - Cadastro de Produto
    - [💻 Script3](#-script3-) - Cadastro de Tipo de Operação
    - [💻 Script4](#-script4-) - Taskit - Criaçao de User + Login
+   - [💻 Script5](#-script5-) - LoginZendesk_Logout
    - [💻 Fontes](#-fontes-)
    - [💻 Tools](#-tools-)
 
@@ -120,7 +121,14 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 Desafios Mapeados na Jornada:
     -Nenhum
     
-    
+ 
+ ## 💻 Script5 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+ 
+  Script de Teste 5 - Login no link AcessNormal do Zendesk, navegar pelo menu lateral ate extensões, depois Logout
+  Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/aefa8098e3ad6e215ef8d2947837b83906f89b0c">Create LoginZendesk_Logout</a>
+  
+  Desafios Mapeados na Jornada:
+    -Nenhum
 
 ## 💻 Fontes [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
