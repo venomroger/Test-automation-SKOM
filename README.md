@@ -137,7 +137,7 @@ Desafios Mapeados na Jornada:
   
 Script de Teste 6 - Acessar site Mercado Livre, efetuar uma busca e validar o resultado
    
-   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/55e597726fca5019a5f50e9dad3e5efc1f73a811">Valida_resultado_ecommerce</a>
+   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/55e597726fca5019a5f50e9dad3e5efc1f73a811">Valida Resultado da busca do site de E-commerce</a>
   
   
 
