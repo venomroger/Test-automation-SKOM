@@ -34,7 +34,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
    - [💻 Script3](#-script3-) - Cadastro de Tipo de Operação
    - [💻 Script4](#-script4-) - Taskit - Criaçao de User + Login
    - [💻 Script5](#-script5-) - LoginZendesk_Logout
-   - [💻 Script5](#-script6-) - Valida_resultado_ecommerce
+   - [💻 Script6](#-script6-) - Valida_resultado_ecommerce
    - [💻 Fontes](#-fontes-)
    - [💻 Tools](#-tools-)
 
