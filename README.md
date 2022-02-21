@@ -48,7 +48,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
 
 Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer download do log  
 
-   script: <a href= "https://github.com/venomroger/Test-automation-SKOM/commit/a0977fa2105cf257991665e9fd2a04eb64184f18">Create download_do_log</a>
+   Script: <a href= "https://github.com/venomroger/Test-automation-SKOM/commit/a0977fa2105cf257991665e9fd2a04eb64184f18">Create download_do_log</a>
 
 
    Desafios Mapeados:
@@ -58,7 +58,7 @@ Script de Teste 1 - Acessar a tela de Administraçao do Servidor e fazer downloa
 
 Script de Teste 2 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Produto e efetuar o cadastro de um produto
 
-   script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/2d156859985e0ecfc112fdb4c9c529fa5a6e8e2c">Cadastro_Produto</a>
+   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/2d156859985e0ecfc112fdb4c9c529fa5a6e8e2c">Cadastro_Produto</a>
    
    
    Desafios Mapeados na Jornada:
