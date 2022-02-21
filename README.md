@@ -97,9 +97,8 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
    
 ## 💻 Script3 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
-  Script de Teste 3 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Tipo de Operação e efetuar o cadastro de um Tipo de Operação
-  
-  script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/294e6f1f6e3c672ff42d31ef599be922fef8b536">cadastro_tipmov</a>
+Script de Teste 3 - Abrir navegador Chrome, logar com SUP, navegar pelo Menu ate a tela de Cadastro de Tipo de Operação e efetuar o cadastro de um Tipo de Operação
+   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/294e6f1f6e3c672ff42d31ef599be922fef8b536">cadastro_tipmov</a>
 
 
   Desafios Mapeados na Jornada:
@@ -116,25 +115,25 @@ Portanto ao utilizar o atributo 'orig-title ='Menu do Sistema' , retorna: Unable
 
 ## 💻 Script4 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
   
-  Script de Teste 4 - Abrir navegador Chrome, acessar o site /taskit, criar novo usuario e logar
-  Script:  <a href="https://github.com/venomroger/Test-automation-SKOM/commit/0edc52d7ecce022f8502f58f622587524e04e55a">taskit_create_user</a>
+Script de Teste 4 - Abrir navegador Chrome, acessar o site /taskit, criar novo usuario e logar
+   Script:  <a href="https://github.com/venomroger/Test-automation-SKOM/commit/0edc52d7ecce022f8502f58f622587524e04e55a">taskit_create_user</a>
 
 Desafios Mapeados na Jornada:
     -Nenhum
     
  
- ## 💻 Script5 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 💻 Script5 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
  
-  Script de Teste 5 - Login no link AcessNormal do Zendesk, navegar pelo menu lateral ate extensões, depois Logout
-  Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/aefa8098e3ad6e215ef8d2947837b83906f89b0c">Create LoginZendesk_Logout</a>
+Script de Teste 5 - Login no link AcessNormal do Zendesk, navegar pelo menu lateral ate extensões, depois Logout
+   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/aefa8098e3ad6e215ef8d2947837b83906f89b0c">Create LoginZendesk_Logout</a>
   
 Desafios Mapeados na Jornada:
     -Nenhum
     
-  ## 💻 Script6 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+## 💻 Script6 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
   
-  Script de Teste 6 - Acessar site Mercado Livre, efetuar uma busca e validar o resultado
-  Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/55e597726fca5019a5f50e9dad3e5efc1f73a811">Valida_resultado_ecommerce</a>
+Script de Teste 6 - Acessar site Mercado Livre, efetuar uma busca e validar o resultado
+   Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/55e597726fca5019a5f50e9dad3e5efc1f73a811">Valida_resultado_ecommerce</a>
   
   
 
