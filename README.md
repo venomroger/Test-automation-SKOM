@@ -34,6 +34,7 @@ Certified ITIL V3 | COBIT 4.1 | ISO/IEC-20000 | <a href="https://www.bstqb.org.b
    - [💻 Script3](#-script3-) - Cadastro de Tipo de Operação
    - [💻 Script4](#-script4-) - Taskit - Criaçao de User + Login
    - [💻 Script5](#-script5-) - LoginZendesk_Logout
+   - [💻 Script5](#-script6-) - Valida_resultado_ecommerce
    - [💻 Fontes](#-fontes-)
    - [💻 Tools](#-tools-)
 
@@ -129,6 +130,13 @@ Desafios Mapeados na Jornada:
   
 Desafios Mapeados na Jornada:
     -Nenhum
+    
+  ## 💻 Script6 [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
+  
+  Script de Teste 6 - Acessar site Mercado Livre, efetuar uma busca e validar o resultado
+  Script: <a href="https://github.com/venomroger/Test-automation-SKOM/commit/55e597726fca5019a5f50e9dad3e5efc1f73a811">Valida_resultado_ecommerce</a>
+  
+  
 
 ## 💻 Fontes [🔝](#welcome-scripts-de-automação-de-teste-readmemd-roger-drumond)
 
